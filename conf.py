@@ -242,10 +242,10 @@ POSTS = (
     ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("pages/*.rst", "", "page.tmpl"),
-    ("pages/*.md", "", "page.tmpl"),
-    ("pages/*.txt", "", "page.tmpl"),
-    ("pages/*.html", "", "page.tmpl"),
+    ("pages/*.rst", "page", "page.tmpl"),
+    ("pages/*.md", "page", "page.tmpl"),
+    ("pages/*.txt", "page", "page.tmpl"),
+    ("pages/*.html", "page", "page.tmpl"),
 )
 
 
@@ -386,7 +386,7 @@ COMPILERS = {
 # output / TRANSLATION[lang] / TAG_PATH / tag.html (list of posts for a tag)
 # output / TRANSLATION[lang] / TAG_PATH / tag RSS_EXTENSION (RSS feed for a tag)
 # (translatable)
-# TAG_PATH = "categories"
+TAG_PATH = "categories"
 
 # By default, the list of tags is stored in
 #     output / TRANSLATION[lang] / TAG_PATH / index.html
@@ -575,7 +575,7 @@ HIDDEN_AUTHORS = ['Guest']
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # (translatable)
 #INDEX_PATH = "posts"
-INDEX_PATH = "asdf"
+INDEX_PATH = "posts"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
@@ -1166,7 +1166,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 
 # By default, Nikola generates RSS files for the website and for tags, and
 # links to it.  Set this to False to disable everything RSS-related.
-# GENERATE_RSS = True
+GENERATE_RSS = False
 
 # By default, Nikola does not generates Atom files for indexes and links to
 # them. Generate Atom for tags by setting TAG_PAGES_ARE_INDEXES to True.
