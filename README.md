@@ -17,3 +17,4 @@ To check all available commands::
     nikola help
 
 New line.
+Second new line
