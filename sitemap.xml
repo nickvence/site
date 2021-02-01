@@ -10,47 +10,15 @@
   <lastmod>2021-01-31T23:18:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/authors/</loc>
-  <lastmod>2021-01-29T22:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/authors/nicholas-vence/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/authors/roberto-alsina/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/categories/</loc>
   <lastmod>2021-01-29T22:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/blog/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/cat_nikola/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/categories/covid/</loc>
   <lastmod>2021-01-29T20:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/demo/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/categories/ggplot/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/nikola/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/categories/python/</loc>
   <lastmod>2021-01-29T20:49:00Z</lastmod>
  </url>
  <url>
@@ -90,18 +58,6 @@
   <lastmod>2021-01-29T20:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/page/about-nikola/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/page/bootstrap-demo/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/page/charts/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/page/conditional-probability-henry-viii/</loc>
   <lastmod>2021-01-29T20:49:00Z</lastmod>
  </url>
@@ -110,39 +66,11 @@
   <lastmod>2021-01-29T20:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/page/creating-a-theme/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/page/dr-nikolas-vendetta/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/page/extending/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/page/handbook/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/page/internals/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/page/laser-atom-interaction/</loc>
   <lastmod>2021-01-29T20:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/page/listings-demo/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/page/madness/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/page/path-handlers/</loc>
   <lastmod>2021-01-29T20:49:00Z</lastmod>
  </url>
  <url>
@@ -154,14 +82,6 @@
   <lastmod>2021-01-29T20:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/page/quickref/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/page/quickstart/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/page/radiosurgery/</loc>
   <lastmod>2021-01-29T20:49:00Z</lastmod>
  </url>
@@ -170,27 +90,11 @@
   <lastmod>2021-01-29T20:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/page/social_buttons/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/page/test1/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/page/theming/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
   <loc>https://example.com/posts/</loc>
   <lastmod>2021-01-29T20:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/posts/using-rest/</loc>
-  <lastmod>2021-01-29T20:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/posts/welcome-to-nikola/</loc>
   <lastmod>2021-01-29T20:49:00Z</lastmod>
  </url>
 </urlset>
